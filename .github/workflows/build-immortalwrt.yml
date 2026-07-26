@@ -166,7 +166,7 @@ jobs:
           CONFIG_CCACHE=y
 
           # Theme
-          CONFIG_PACKAGE_luci-theme-argon=y
+          # CONFIG_PACKAGE_luci-theme-argon=y
           CONFIG_PACKAGE_luci-theme-alpha=y
           CONFIG_PACKAGE_luci-app-alpha-config=y
 
